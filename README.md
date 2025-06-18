@@ -4,19 +4,19 @@ Welcome to my data portfolio! I'm an aspiring data professional focused on trans
 
 ## Projects
 
-### 1. [Movie Revenue & Budget Analysis](./movie-analysis/)
+### 1. [Movie Revenue & Budget Analysis]
 
 > **Excel** – Explored financial patterns across movie data to visualize budget vs. revenue dynamics.
 
-### 2. [Food Consumption & COVID-19 Impact](./food-covid-storyboard/)
+### 2. [Food Consumption & COVID-19 Impact]
 
 > **Tableau** – Visual storyboard showing how the pandemic affected food consumption across sectors.
 
-### 3. [Museum & Artist Data Exploration](./museum-sql-analysis/)
+### 3. [Museum & Artist Data Exploration]
 
 > **SQL + Tableau** – Built normalized SQL queries and dashboards to examine paintings and artists.
 
-### 4. [Car Fuel Efficiency EDA](./car-data-eda/)
+### 4. [Car Fuel Efficiency EDA]
 
 > **Python (Pandas, Seaborn)** – Visualized vehicle data to uncover fuel efficiency trends.
 
