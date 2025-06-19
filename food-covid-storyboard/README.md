@@ -19,6 +19,10 @@ This Tableau storyboard visualizes how the COVID-19 pandemic impacted food consu
   -Meats saw the largest increase with a 15% increase in sales
 - However, consumption decreased by 91% across all industries by 2021.
 
+## Tableau Public File
+
+Linked is the completed visualization, uploaded to tableau public: https://public.tableau.com/views/COVID_consumption/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Files
 
 - `COVID_consumption.twbx` — Tableau packaged workbook
