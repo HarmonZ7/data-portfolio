@@ -15,4 +15,4 @@ This project explores the relationship between movie budgets, scores, genres and
 
 ## Files
 
-- `movie_data.xlsx` — Cleaned and analyzed dataset with visuals
+- `movie_analysis.xlsx` — Cleaned and analyzed dataset with visuals

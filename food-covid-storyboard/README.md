@@ -21,6 +21,6 @@ This Tableau storyboard visualizes how the COVID-19 pandemic impacted food consu
 
 ## Files
 
-- `food_covid_story.twbx` — Tableau packaged workbook
+- `COVID_consumption.twbx` — Tableau packaged workbook
 
 ---
