@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project explores the relationship between movie budgets, scores, genres and box office revenues. Using Excel, I created pivot tables and visual charts to uncover patterns in financial performance across different films and budget tiers.
+This project explores the relationship between movie budgets, scores, genres and box office revenues. Using Excel, I created pivot tables, utilized advanced functions and calculations, and created visual charts to uncover patterns in financial performance across different films and budgets.
 
 ## Key Insights
 

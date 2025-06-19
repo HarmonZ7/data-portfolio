@@ -13,6 +13,11 @@ In this project, I wrote 3 SQL queries to explore a database of museums, paintin
 - Used joins, aggregations, CTE's, window functions, and subqueries to build insights
 - Visualized artwork, artist, and museum data by country, subject, style, frequency, etc
 
+## Tableau Public Storyboard
+
+Listed is the finished storyboard published to tableau public:
+https://public.tableau.com/views/MuseumAnalysis_17503635414280/MuseumAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## SQL Queries Used
 
 <pre>
